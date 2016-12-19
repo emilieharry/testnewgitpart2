@@ -1,2 +1,2 @@
 # testnewgitpart2
-test exercice 2 GIT
+test exercice 2 GIT et GITHUB
